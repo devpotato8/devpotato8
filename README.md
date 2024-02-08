@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!%20Tyoon's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🙋‍♂️About Me </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AboutMe </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li>꾸준히 나아가는 개발자 김태윤입니다</li><li>소통하며 성장하는 개발자가 되고 싶습니다 </div> 
     </div>
     <div style="text-align: left;">
@@ -36,8 +36,8 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-
-          <br/></div>
+          <br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+          </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
@@ -51,5 +51,6 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpotato8&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    
     
 
