@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hello!%20Tyoon's%20GitHub&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AboutMe </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🙋‍♂️About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li>꾸준히 나아가는 개발자 김태윤입니다</li><li>소통하며 성장하는 개발자가 되고 싶습니다 </div> 
     </div>
     <div style="text-align: left;">
