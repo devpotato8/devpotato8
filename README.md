@@ -36,6 +36,9 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
+        <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
+        <img alt="Dynamic XML Badge" src="https://img.shields.io/badge/dynamic/xml">
+
           <br/></div>
     </div>
     <div style="text-align: left;">
